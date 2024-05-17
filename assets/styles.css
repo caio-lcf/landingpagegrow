@@ -2,7 +2,6 @@
 
 *{
     margin: 0;
-    background-color: #0B508C;
     text-decoration: none;
     font-family: 'Titillium Web', sans-serif;
 }
@@ -21,8 +20,7 @@
     opacity: 0; 
     animation: slideIn 2s ease forwards;
     background-color: transparent;
-    margin-left: 10px;
-    
+    margin-left: 10px;    
 }
 
 .textoAnimado2 {
@@ -99,10 +97,6 @@ h1 {
 }
 
 .content {
-
-    background-color: #50428C;
-    border: #6663B3 solid 3px;
-    border-radius: 10px;
     width: 500px;
     position: absolute;
     top: 30%;
