@@ -255,9 +255,8 @@ h1 {
         
         .planilha {
             
-            top: 160%;
+            top: 130%;
             left: 10%;
-            transform: translate(-50%, -50%);
             background-color: rgb(0, 0, 0, 0,9);
             margin: auto;
             width: 10%;
