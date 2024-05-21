@@ -140,14 +140,14 @@ h1 {
     left: 2%;
 }
 
-.planilha {
+ /* .planilha 
     position: absolute;
     top: 280%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgb(0, 0, 0, 0,9);
     padding: 20px;
-  }
+  }{ */
 
 .family {
     background-image: url(media/familia.jpeg);
