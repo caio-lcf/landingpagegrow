@@ -214,7 +214,6 @@ h1 {
     }
     .content {
         width: 100%;
-        top: 43%;
         display: flex;
         justify-content: space-between;
         left: 0.01%;
@@ -251,7 +250,7 @@ h1 {
 
         
         .planilha {
-            position: absolute;
+            
             top: 160%;
             left: 10%;
             transform: translate(-50%, -50%);
