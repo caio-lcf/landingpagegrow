@@ -156,7 +156,7 @@ h1 {
   }
 
 
-  @media (max-width:768px) {
+  @media (max-width: 768px) {
 
     .textoAnimado1 {
         opacity: 0; 
@@ -210,14 +210,13 @@ h1 {
     }
     .content {
         width: 100%;
-        position: absolute;
         top: 43%;
-        left: 1%;
         display: flex;
+        justify-content: space-between;
+        left: 0.01%;
         background-color: transparent;
         font-family: 'FonteLista' , sans-serif;
-        font-size: x-small;
-        margin: auto;
+        font-size: xx-small;
         }
         
 
@@ -225,10 +224,8 @@ h1 {
             opacity: 0; 
             animation: slideIn 2s ease forwards;
             background-color: transparent;
-            margin-left: 10px;
             animation-delay: 1.9s;
-            height: 25%;
-            position: absolute;
+            height: 15%;
             top: 5%;
             left: 2%;
         }
@@ -251,18 +248,15 @@ h1 {
         .planilha {
             position: absolute;
             top: 160%;
-            left: 50%;
+            left: 35%;
             transform: translate(-50%, -50%);
             background-color: rgb(0, 0, 0, 0,9);
             margin: auto;
-            width: auto;
+            width: 50%;
         }
 
         .predio {
             width: 100%;
-            height: auto;
-            position: relative;
-            display: block;
             filter: brightness(0.5);
         }
         
