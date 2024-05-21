@@ -245,6 +245,7 @@ h1 {
         }
         
 
+        /* } 
         .planilha {
             position: absolute;
             top: 160%;
@@ -252,8 +253,7 @@ h1 {
             transform: translate(-50%, -50%);
             background-color: rgb(0, 0, 0, 0,9);
             margin: auto;
-            width: 50%;
-        }
+            width: 50%;*/
 
         .predio {
             width: 100%;
